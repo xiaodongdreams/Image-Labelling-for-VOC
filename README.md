@@ -1,11 +1,12 @@
 ## lab.py
 
 Windows:<br/>
-该工具依赖opencv python库，下面是windows下的cv2.pyd下载地址，依赖python2.7.<br/>
-下载地址: [cv2.pyd](http://www.zifuture.com/fs/1.lab.py/cv2.pyd)<br/>
+该工具依赖opencv python库和Python3.<br/>
+将要标注的图片放在frames文件夹下，先运行rename.py文件再运行lab.py文件，标完按s键保存并继续
+注意：图片名不能包含中文
 
 Linux:<br/>
-linux下需要安装python-opencv来支持import cv2<br/>
+Ubuntu 16.04下需要安装python-opencv来支持import cv2<br/>
 
 ## 其他说明
 breakpoint.txt文件是记录断点，用来关闭程序后能够恢复原有位置<br/>
