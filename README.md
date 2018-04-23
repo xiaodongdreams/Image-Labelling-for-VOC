@@ -1,4 +1,4 @@
-## lab.py
+## Usage
 
 Windows:<br/>
 该工具依赖opencv python库和Python3.<br/>
